@@ -1,0 +1,54 @@
+{
+  "description": "Replace the placeholder entries with user-approved public accounts. Do not store login credentials, cookies, or personal contact details here.",
+  "reviewed_at": "",
+  "accounts": [
+    {
+      "platform": "xiaohongshu",
+      "account_id": "replace-with-public-platform-id",
+      "category": "legal_tech_vendor",
+      "why_watched": "Legal-AI product and workflow releases",
+      "cadence": "workday",
+      "approved_by": ""
+    },
+    {
+      "platform": "douyin",
+      "account_id": "replace-with-public-platform-id",
+      "category": "law_firm_or_lawyer",
+      "why_watched": "Public practitioner adoption and client concerns",
+      "cadence": "workday",
+      "approved_by": ""
+    },
+    {
+      "platform": "bilibili",
+      "account_id": "replace-with-public-platform-id",
+      "category": "legal_research_or_media",
+      "why_watched": "Tool demonstrations and technical evaluations",
+      "cadence": "weekly",
+      "approved_by": ""
+    },
+    {
+      "platform": "zhihu",
+      "account_id": "replace-with-public-platform-id",
+      "category": "enterprise_legal_or_compliance",
+      "why_watched": "Long-form implementation and compliance discussion",
+      "cadence": "workday",
+      "approved_by": ""
+    },
+    {
+      "platform": "weibo",
+      "account_id": "replace-with-public-platform-id",
+      "category": "legal_media_or_association",
+      "why_watched": "Fast event and policy diffusion",
+      "cadence": "workday",
+      "approved_by": ""
+    },
+    {
+      "platform": "x",
+      "account_id": "replace-with-public-platform-id",
+      "category": "overseas_legal_ai_or_governance",
+      "why_watched": "Cross-border legal-AI and governance developments",
+      "cadence": "weekly",
+      "approved_by": ""
+    }
+  ]
+}
