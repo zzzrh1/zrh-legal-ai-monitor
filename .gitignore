@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local credentials and browser state
+.env
+.env.*
+cookies.json
+credentials.json
+storage_state.json
+
+# Local monitoring data and rendered runs
+state.json
+inbox/
+digests/
